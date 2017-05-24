@@ -1,0 +1,2 @@
+broker_url = 'pyamqp://mj2:2018year@127.0.0.1/mj2_vhost'
+result_backend = 'redis://127.0.0.1'
